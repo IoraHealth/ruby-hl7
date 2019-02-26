@@ -1,9 +1,7 @@
-source 'http://gems.github.com'
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem "rake", "~> 10.0.3"
 gem 'rdoc'
-gem 'rubyforge'
 gem 'technicalpickles-jeweler'
 
 group :test, :development do
